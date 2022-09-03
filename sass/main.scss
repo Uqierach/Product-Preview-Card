@@ -1,0 +1,24 @@
+// basic setups starts
+$dark_cyan: hsl(158, 36%, 37%);
+$cream: hsl(30, 38%, 92%);
+
+$darker_blue: hsl(212, 21%, 14%);
+$dark_grayish_blue: hsl(228, 12%, 48%);
+$white_basic: hsl(0, 0%, 100%);
+
+$font_regular: 14px;
+$fw_light: 500;
+$fw_bold: 700;
+
+// ends
+
+
+* { 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body { 
+  height: 100vh;
+}
